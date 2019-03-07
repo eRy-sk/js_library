@@ -3,5 +3,4 @@
 ```bash
 $ git clone git@github.com:eRy-sk/js_library.git
 ```
-* クローンしたローカルフォルダの中のdemo.htmlが入っているフォルダをブラウザにドラッグ＆ドロップする
-* ブラウザにファイル名が表示されるのでdemo.htmlをクリックして表示させる
+* クローンしたリポジトリの見たいdemo.htmlをブラウザにドラッグ＆ドロップする
